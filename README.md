@@ -7,3 +7,5 @@ To connect VS-code to Microsoft Azure Virtual Machine instance, you need to do t
 3- Add new connecxion (click on + button)<br>
 4- Tap "ssh -i "path/to/key_file.pem" azureuser@MV-IP-Address (replace azureuser by the name specified while creating your virtual machine, also don't forget to change "\\" by "/" on your path if you are using windows).<br>
 5- Start working :)
+
+#Enjoy coding ;)
